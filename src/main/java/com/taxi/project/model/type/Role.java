@@ -1,6 +1,6 @@
 package com.taxi.project.model.type;
 
-public enum ROLE {
+public enum Role {
     AGGREGATOR,
     PASSENGER,
     DRIVER,

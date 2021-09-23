@@ -1,6 +1,6 @@
 package com.taxi.project.model.type;
 
-public enum CLASSCAR {
+public enum ClassCar {
     STANDARD,
     COMFORT,
     BUSINESS,
